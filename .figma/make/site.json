@@ -1,0 +1,10 @@
+{
+  "description": "A responsive website that recreates the provided design with working navigation, image slideshows, popups, and mobile menus for a seamless experience across devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
